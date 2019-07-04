@@ -1,8 +1,5 @@
 package com.company;
 
-import javax.sound.midi.Soundbank;
-import java.sql.SQLOutput;
-
 public class Wilder {
     private String firstname;
     private  boolean aware;
